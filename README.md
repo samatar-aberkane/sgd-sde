@@ -8,8 +8,7 @@ Inspired by the analogy with the **Langevin equation** in statistical physics, t
 ## Project Structure
 
 - `sgd_et_sde.pdf`: Final report (theoretical framework + numerical results).  
-- `main.tex`: Main **LaTeX** source file of the report.  
-- `biblio.bib`: Bibliographic references in **BibTeX** format.  
+- `figures/`: Folder containing the plots and visualizations..  
 - `python_scripts/`: Python scripts for numerical experiments and figure generation.  
 
 ---
